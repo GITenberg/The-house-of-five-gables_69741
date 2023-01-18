@@ -1,0 +1,26 @@
+_repo: The-house-of-five-gables_69741
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holmes, Mary Johnson
+    gutenberg_agent_id: '55397'
+    url: http://www.gutenberg.org/2009/agents/55397
+description: ''
+gutenberg_issued: '2023-01-08'
+identifiers:
+  gutenberg: '69741'
+language: en
+pgterms:marc904: https://archive.org/details/houseoffivegable00holm
+pgterms:marc905: 20210108211942holmes
+pgterms:marc906: '1892'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: Hurst and company,1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The house of five gables
+url: http://www.gutenberg.org/ebooks/69741
